@@ -84,7 +84,8 @@ const drawWaffle = (data) => {
                     .attr('stroke', 'black')
                     .attr('stroke-opacity', 0.4)
                     .attr('font-family', 'Arial, sans-serif')
-                    .text('Renewable Energy');
+                    .text('Renewable Energy')
+                    ;
 
            
 
