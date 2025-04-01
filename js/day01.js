@@ -53,8 +53,8 @@ const drawWaffle = (data) => {
                     .attr('y', d => Math.floor(d.index / numCols) * cellsize)
                     .attr('width', cellsize - 2)
                     .attr('height', cellsize - 2)
-                    .attr('rx', 5)
-                    .attr('ry', 5)
+                    .attr('rx', 10)
+                    .attr('ry', 10)
                     .attr('fill', d => d.renewable ? '#4CAF50' : 'gray')
                     .attr('stroke', 'white')
                     .attr('stroke-width', 1);
@@ -70,6 +70,7 @@ const drawWaffle = (data) => {
                     .attr('font-weight', 'bold')
                     .attr('fill', '#4CAF50')
                     .attr('stroke', 'black')
+                    .attr('stroke-opacity', 0.4)
                     .attr('font-family', 'Arial, sans-serif')
                     .text(`${Math.round(renewablePercentage)}%`);
 
@@ -77,9 +78,11 @@ const drawWaffle = (data) => {
                     .attr('x', width / 2)
                     .attr('y', height / 2 + 30)
                     .attr('text-anchor', 'middle')
-                    .attr('font-size', '20px')
+                    .attr('font-size', '25px')
                     .attr('fill', '#4CAF50')
-                    // .attr('stroke', 'white')
+                    .attr('font-weight', 'bold')
+                    .attr('stroke', 'black')
+                    .attr('stroke-opacity', 0.4)
                     .attr('font-family', 'Arial, sans-serif')
                     .text('Renewable Energy');
 
