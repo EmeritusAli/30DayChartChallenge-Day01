@@ -1,0 +1,209 @@
+Date,Demand (GW),Energy Source,Value (GW)
+29/01/2024,33.3,Fossil Fuels (GW),8.1
+05/02/2024,33.4,Fossil Fuels (GW),10.2
+12/02/2024,31.8,Fossil Fuels (GW),9.9
+19/02/2024,32.7,Fossil Fuels (GW),8.4
+26/02/2024,34.0,Fossil Fuels (GW),11.2
+04/03/2024,33.5,Fossil Fuels (GW),9.8
+11/03/2024,31.8,Fossil Fuels (GW),8.5
+18/03/2024,31.0,Fossil Fuels (GW),7.7
+25/03/2024,30.6,Fossil Fuels (GW),6.9
+01/04/2024,29.6,Fossil Fuels (GW),5.0
+08/04/2024,29.6,Fossil Fuels (GW),3.8
+15/04/2024,30.4,Fossil Fuels (GW),4.4
+22/04/2024,30.4,Fossil Fuels (GW),10.2
+29/04/2024,28.5,Fossil Fuels (GW),6.1
+06/05/2024,26.6,Fossil Fuels (GW),8.0
+13/05/2024,26.8,Fossil Fuels (GW),8.7
+20/05/2024,26.8,Fossil Fuels (GW),7.6
+27/05/2024,26.2,Fossil Fuels (GW),4.1
+03/06/2024,26.9,Fossil Fuels (GW),4.4
+10/06/2024,27.2,Fossil Fuels (GW),5.9
+17/06/2024,26.7,Fossil Fuels (GW),6.8
+24/06/2024,27.0,Fossil Fuels (GW),6.6
+01/07/2024,26.9,Fossil Fuels (GW),4.6
+08/07/2024,26.7,Fossil Fuels (GW),6.9
+15/07/2024,27.0,Fossil Fuels (GW),7.7
+22/07/2024,26.4,Fossil Fuels (GW),7.8
+29/07/2024,26.6,Fossil Fuels (GW),6.9
+05/08/2024,26.6,Fossil Fuels (GW),3.8
+12/08/2024,26.8,Fossil Fuels (GW),5.0
+19/08/2024,26.6,Fossil Fuels (GW),3.4
+26/08/2024,26.1,Fossil Fuels (GW),6.3
+02/09/2024,27.4,Fossil Fuels (GW),8.6
+09/09/2024,27.8,Fossil Fuels (GW),5.6
+16/09/2024,27.3,Fossil Fuels (GW),8.2
+23/09/2024,28.8,Fossil Fuels (GW),8.1
+30/09/2024,29.5,Fossil Fuels (GW),6.8
+07/10/2024,30.0,Fossil Fuels (GW),8.3
+14/10/2024,30.1,Fossil Fuels (GW),9.6
+21/10/2024,29.9,Fossil Fuels (GW),9.3
+28/10/2024,29.9,Fossil Fuels (GW),13.0
+04/11/2024,31.1,Fossil Fuels (GW),16.8
+11/11/2024,32.4,Fossil Fuels (GW),12.4
+18/11/2024,36.1,Fossil Fuels (GW),11.0
+25/11/2024,34.7,Fossil Fuels (GW),11.7
+02/12/2024,34.7,Fossil Fuels (GW),10.6
+09/12/2024,34.9,Fossil Fuels (GW),16.9
+16/12/2024,34.6,Fossil Fuels (GW),5.8
+23/12/2024,30.0,Fossil Fuels (GW),9.1
+30/12/2024,33.0,Fossil Fuels (GW),8.1
+06/01/2025,38.3,Fossil Fuels (GW),16.0
+13/01/2025,36.0,Fossil Fuels (GW),18.8
+20/01/2025,36.0,Fossil Fuels (GW),14.8
+29/01/2024,33.3,Renewables (GW),15.9
+05/02/2024,33.4,Renewables (GW),12.4
+12/02/2024,31.8,Renewables (GW),11.6
+19/02/2024,32.7,Renewables (GW),12.5
+26/02/2024,34.0,Renewables (GW),11.8
+04/03/2024,33.5,Renewables (GW),13.3
+11/03/2024,31.8,Renewables (GW),12.2
+18/03/2024,31.0,Renewables (GW),13.9
+25/03/2024,30.6,Renewables (GW),11.9
+01/04/2024,29.6,Renewables (GW),14.8
+08/04/2024,29.6,Renewables (GW),16.3
+15/04/2024,30.4,Renewables (GW),14.9
+22/04/2024,30.4,Renewables (GW),8.0
+29/04/2024,28.5,Renewables (GW),9.8
+06/05/2024,26.6,Renewables (GW),6.9
+13/05/2024,26.8,Renewables (GW),6.7
+20/05/2024,26.8,Renewables (GW),8.0
+27/05/2024,26.2,Renewables (GW),11.2
+03/06/2024,26.9,Renewables (GW),12.3
+10/06/2024,27.2,Renewables (GW),10.3
+17/06/2024,26.7,Renewables (GW),8.0
+24/06/2024,27.0,Renewables (GW),9.4
+01/07/2024,26.9,Renewables (GW),11.8
+08/07/2024,26.7,Renewables (GW),8.5
+15/07/2024,27.0,Renewables (GW),7.6
+22/07/2024,26.4,Renewables (GW),7.1
+29/07/2024,26.6,Renewables (GW),7.9
+05/08/2024,26.6,Renewables (GW),12.6
+12/08/2024,26.8,Renewables (GW),10.8
+19/08/2024,26.6,Renewables (GW),15.4
+26/08/2024,26.1,Renewables (GW),10.5
+02/09/2024,27.4,Renewables (GW),7.0
+09/09/2024,27.8,Renewables (GW),12.6
+16/09/2024,27.3,Renewables (GW),7.4
+23/09/2024,28.8,Renewables (GW),10.3
+30/09/2024,29.5,Renewables (GW),12.4
+07/10/2024,30.0,Renewables (GW),11.3
+14/10/2024,30.1,Renewables (GW),11.7
+21/10/2024,29.9,Renewables (GW),11.1
+28/10/2024,29.9,Renewables (GW),6.0
+04/11/2024,31.1,Renewables (GW),4.3
+11/11/2024,32.4,Renewables (GW),9.9
+18/11/2024,36.1,Renewables (GW),14.4
+25/11/2024,34.7,Renewables (GW),14.6
+02/12/2024,34.7,Renewables (GW),15.6
+09/12/2024,34.9,Renewables (GW),10.0
+16/12/2024,34.6,Renewables (GW),20.1
+23/12/2024,30.0,Renewables (GW),10.5
+30/12/2024,33.0,Renewables (GW),14.9
+06/01/2025,38.3,Renewables (GW),10.7
+13/01/2025,36.0,Renewables (GW),10.4
+20/01/2025,36.0,Renewables (GW),11.0
+29/01/2024,33.3,Other Sources (GW),6.1
+05/02/2024,33.4,Other Sources (GW),6.3
+12/02/2024,31.8,Other Sources (GW),5.9
+19/02/2024,32.7,Other Sources (GW),6.0
+26/02/2024,34.0,Other Sources (GW),6.2
+04/03/2024,33.5,Other Sources (GW),5.1
+11/03/2024,31.8,Other Sources (GW),5.2
+18/03/2024,31.0,Other Sources (GW),5.4
+25/03/2024,30.6,Other Sources (GW),5.9
+01/04/2024,29.6,Other Sources (GW),6.4
+08/04/2024,29.6,Other Sources (GW),7.3
+15/04/2024,30.4,Other Sources (GW),7.7
+22/04/2024,30.4,Other Sources (GW),8.1
+29/04/2024,28.5,Other Sources (GW),7.6
+06/05/2024,26.6,Other Sources (GW),7.6
+13/05/2024,26.8,Other Sources (GW),6.5
+20/05/2024,26.8,Other Sources (GW),6.2
+27/05/2024,26.2,Other Sources (GW),6.5
+03/06/2024,26.9,Other Sources (GW),6.2
+10/06/2024,27.2,Other Sources (GW),6.3
+17/06/2024,26.7,Other Sources (GW),6.9
+24/06/2024,27.0,Other Sources (GW),6.9
+01/07/2024,26.9,Other Sources (GW),6.8
+08/07/2024,26.7,Other Sources (GW),6.3
+15/07/2024,27.0,Other Sources (GW),6.6
+22/07/2024,26.4,Other Sources (GW),6.6
+29/07/2024,26.6,Other Sources (GW),7.1
+05/08/2024,26.6,Other Sources (GW),7.2
+12/08/2024,26.8,Other Sources (GW),8.3
+19/08/2024,26.6,Other Sources (GW),6.8
+26/08/2024,26.1,Other Sources (GW),6.9
+02/09/2024,27.4,Other Sources (GW),7.7
+09/09/2024,27.8,Other Sources (GW),6.8
+16/09/2024,27.3,Other Sources (GW),7.5
+23/09/2024,28.8,Other Sources (GW),6.7
+30/09/2024,29.5,Other Sources (GW),6.8
+07/10/2024,30.0,Other Sources (GW),6.3
+14/10/2024,30.1,Other Sources (GW),6.4
+21/10/2024,29.9,Other Sources (GW),6.5
+28/10/2024,29.9,Other Sources (GW),6.7
+04/11/2024,31.1,Other Sources (GW),7.4
+11/11/2024,32.4,Other Sources (GW),7.3
+18/11/2024,36.1,Other Sources (GW),6.7
+25/11/2024,34.7,Other Sources (GW),5.0
+02/12/2024,34.7,Other Sources (GW),5.3
+09/12/2024,34.9,Other Sources (GW),6.0
+16/12/2024,34.6,Other Sources (GW),6.3
+23/12/2024,30.0,Other Sources (GW),6.9
+30/12/2024,33.0,Other Sources (GW),6.9
+06/01/2025,38.3,Other Sources (GW),7.1
+13/01/2025,36.0,Other Sources (GW),6.4
+20/01/2025,36.0,Other Sources (GW),6.7
+29/01/2024,33.3,Transfers (GW),3.2
+05/02/2024,33.4,Transfers (GW),4.5
+12/02/2024,31.8,Transfers (GW),4.4
+19/02/2024,32.7,Transfers (GW),5.8
+26/02/2024,34.0,Transfers (GW),4.8
+04/03/2024,33.5,Transfers (GW),5.3
+11/03/2024,31.8,Transfers (GW),5.9
+18/03/2024,31.0,Transfers (GW),4.0
+25/03/2024,30.6,Transfers (GW),5.9
+01/04/2024,29.6,Transfers (GW),3.4
+08/04/2024,29.6,Transfers (GW),2.2
+15/04/2024,30.4,Transfers (GW),3.4
+22/04/2024,30.4,Transfers (GW),4.1
+29/04/2024,28.5,Transfers (GW),5.0
+06/05/2024,26.6,Transfers (GW),4.1
+13/05/2024,26.8,Transfers (GW),4.9
+20/05/2024,26.8,Transfers (GW),5.0
+27/05/2024,26.2,Transfers (GW),4.4
+03/06/2024,26.9,Transfers (GW),4.0
+10/06/2024,27.2,Transfers (GW),4.7
+17/06/2024,26.7,Transfers (GW),5.0
+24/06/2024,27.0,Transfers (GW),4.1
+01/07/2024,26.9,Transfers (GW),3.7
+08/07/2024,26.7,Transfers (GW),5.0
+15/07/2024,27.0,Transfers (GW),5.1
+22/07/2024,26.4,Transfers (GW),4.9
+29/07/2024,26.6,Transfers (GW),4.7
+05/08/2024,26.6,Transfers (GW),3.0
+12/08/2024,26.8,Transfers (GW),2.7
+19/08/2024,26.6,Transfers (GW),1.0
+26/08/2024,26.1,Transfers (GW),2.4
+02/09/2024,27.4,Transfers (GW),4.1
+09/09/2024,27.8,Transfers (GW),2.8
+16/09/2024,27.3,Transfers (GW),4.2
+23/09/2024,28.8,Transfers (GW),3.7
+30/09/2024,29.5,Transfers (GW),3.5
+07/10/2024,30.0,Transfers (GW),4.1
+14/10/2024,30.1,Transfers (GW),2.4
+21/10/2024,29.9,Transfers (GW),3.0
+28/10/2024,29.9,Transfers (GW),4.2
+04/11/2024,31.1,Transfers (GW),2.6
+11/11/2024,32.4,Transfers (GW),2.8
+18/11/2024,36.1,Transfers (GW),4.0
+25/11/2024,34.7,Transfers (GW),3.4
+02/12/2024,34.7,Transfers (GW),3.2
+09/12/2024,34.9,Transfers (GW),2.0
+16/12/2024,34.6,Transfers (GW),2.4
+23/12/2024,30.0,Transfers (GW),3.5
+30/12/2024,33.0,Transfers (GW),3.1
+06/01/2025,38.3,Transfers (GW),4.5
+13/01/2025,36.0,Transfers (GW),0.4
+20/01/2025,36.0,Transfers (GW),3.5
